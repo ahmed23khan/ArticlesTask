@@ -27,7 +27,7 @@ This repository is for an assignment
 
  * **Network Layer** :
  
-        *The network layer is implemented using the Protocol Oriented Programming (POP) paradigm to make it modular,testable and mockable.
+     *The network layer is implemented using the Protocol Oriented Programming (POP) paradigm to make it modular,testable and mockable.
 
 - **ProviderProtocol**: A provider Protocol acts as a provider to send requests.
 - **URLSessionProtocol**: This protocol is used for creating stubs and mock objects to test the Network layer.
