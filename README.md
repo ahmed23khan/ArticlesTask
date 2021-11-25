@@ -26,7 +26,9 @@ This repository is for an assignment
 - **ArticleDetailViewController**: A detail view class, which displays data of the selected article.
 
  * **Network Layer** :
-- *The network layer is implemented using the Protocol Oriented Programming (POP) paradigm to make it modular,testable and mockable.
+ 
+        *The network layer is implemented using the Protocol Oriented Programming (POP) paradigm to make it modular,testable and mockable.
+
 - **ProviderProtocol**: A provider Protocol acts as a provider to send requests.
 - **URLSessionProtocol**: This protocol is used for creating stubs and mock objects to test the Network layer.
 - **URLSessionProvider**: URLSessionProvider conforms to ProviderProtocol. This approach is necessary to test network layer. It’s essential because in easy way you can switch session with mock file and simulate responses from API without internet connection.
