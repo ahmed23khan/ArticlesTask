@@ -25,9 +25,10 @@ This repository is for an assignment
 - **ArticleTableViewCell**: A custom class for custom cells inheriting from UITableViewCell.
 - **ArticleDetailViewController**: A detail view class, which displays data of the selected article.
 
-- **Network Layer**: The network layer is implemented using the Protocol Oriented Programming (POP) paradigm to make it modular,testable and mockable.
-- **ProviderProtocol**: A provider Protocol to send requests
-- **URLSessionProtocol**: A Protocol, when confromed by a class to make network calls. This protocol will help to write mocks to test the network layer.
+ * **Network Layer** :
+- *The network layer is implemented using the Protocol Oriented Programming (POP) paradigm to make it modular,testable and mockable.
+- **ProviderProtocol**: A provider Protocol acts as a provider to send requests.
+- **URLSessionProtocol**: This protocol is used for creating stubs and mock objects to test the Network layer.
 - **URLSessionProvider**: URLSessionProvider conforms to ProviderProtocol. This approach is necessary to test network layer. It’s essential because in easy way you can switch session with mock file and simulate responses from API without internet connection.
 - **RequestProviding**: A protocol to build the URL with baseURL, apiKey and period seleced.
 
