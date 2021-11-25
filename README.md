@@ -1,17 +1,16 @@
-# SmartDubai
+# ArticlesTask
 This repository is for an assignment
 
-
 ### How to run the app
- - Pull the latest code from "https://github.com/ahmed23khan/SmartDubai.git"
- - Open the folder SmartDubai/Articles
+ - Pull the latest code from "https://github.com/ahmed23khan/ArticlesTask.git"
+ - Open the folder ArticlesTask/Articles
  - Double Click Articles.xcodeproj
  - Select Articles Target and Select iPhone 13 Pro Max
  - Click on Run or ⌘R
  
 ### How to test the app
- - Pull the latest code from "https://github.com/ahmed23khan/SmartDubai.git"
- - Open the folder SmartDubai/Articles
+ - Pull the latest code from "https://github.com/ahmed23khan/ArticlesTask.git"
+ - Open the folder ArticlesTask/Articles
  - Double Click Articles.xcodeproj
  - Select Articles Target
  - Select Product-> Test
@@ -35,15 +34,15 @@ This repository is for an assignment
 - **RequestProviding**: A protocol to build the URL with baseURL, apiKey and period seleced.
 
 ### Class Diagram
-![Alt text](https://github.com/ahmed23khan/SmartDubai/blob/adabd611da59f4da0c2f9752a0fe52d1e29a0c84/Class_Diagram.png)
+![Alt text](https://github.com/ahmed23khan/ArticlesTask/blob/d0bd0d1c4c5ade603cdcff6d83a0988f399b60ed/Class_Diagram.png)
 
 
 # Code Coverage Report
-![alt text](https://github.com/ahmed23khan/SmartDubai/blob/adabd611da59f4da0c2f9752a0fe52d1e29a0c84/Code_Coverage.png)
+![alt text](https://github.com/ahmed23khan/ArticlesTask/blob/d0bd0d1c4c5ade603cdcff6d83a0988f399b60ed/Code_Coverage.png)
 
 
 # Screen Shots
 
-![alt text](https://github.com/ahmed23khan/SmartDubai/blob/adabd611da59f4da0c2f9752a0fe52d1e29a0c84/screenshot4.png)
+![alt text](https://github.com/ahmed23khan/ArticlesTask/blob/d0bd0d1c4c5ade603cdcff6d83a0988f399b60ed/screenshot4.png)
 
-![alt text](https://github.com/ahmed23khan/SmartDubai/blob/adabd611da59f4da0c2f9752a0fe52d1e29a0c84/Screenshot3.png)
+![alt text](https://github.com/ahmed23khan/ArticlesTask/blob/d0bd0d1c4c5ade603cdcff6d83a0988f399b60ed/Screenshot3.png)
